@@ -128,6 +128,5 @@ If you like this project, please consider giving it a ⭐ on GitHub to support t
 
 ## 🔗 Connect with Me
 
-- GitHub: [@your-username](https://github.com/your-username)  
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)  
-- Portfolio: [your-website.com](https://your-website.com)
+- GitHub: [@sathviksr2001](https://github.com/sathviksr2001)  
+- LinkedIn: [SATHVIK SR](https://www.linkedin.com/in/sathviksr)
