@@ -110,19 +110,13 @@ ssh -i "your-key.pem" ubuntu@<your-ec2-ip>
 
 ## 👏 Acknowledgments
 
-Built with Python, sockets, Tkinter, and love 💙. Deployed globally using AWS EC2.
+Built with Python, sockets, and Tkinter. Deployed globally using AWS EC2.
 
 ---
 
 ## 🌟 Star This Project
 
 If you like this project, please consider giving it a ⭐ on GitHub to support the developer.
-
----
-
-## 📸 Screenshots
-
-> Coming Soon — add screenshots of your GUI and terminal views!
 
 ---
 
